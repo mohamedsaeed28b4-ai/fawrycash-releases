@@ -1,1 +1,0 @@
-# fawrycash-releases
